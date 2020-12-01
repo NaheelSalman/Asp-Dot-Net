@@ -1,0 +1,12 @@
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.exe.config
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.exe
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.pdb
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.csprojAssemblyReference.cache
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.Form1.resources
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.Phrases.resources
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.Properties.Resources.resources
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.csproj.GenerateResource.cache
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.exe
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.pdb
+C:\Users\Muhammad Salman\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.Idioms.resources
