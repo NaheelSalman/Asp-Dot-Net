@@ -1,0 +1,46 @@
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AcademicRegistration.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.NonAcademicRegistration.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentRegistration.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Login.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Home.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentUpdate.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteStudent.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.mdf
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem_log.ldf
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetails.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AcademicDetails.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteAcademic.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteNonAcademic.resources
+E:\AdeeSL\c#\SMS\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.NonAcademicDetails.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.mdf
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem_log.ldf
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AcademicDetails.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AcademicRegistration.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteAcademic.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteNonAcademic.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.DeleteStudent.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Home.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Login.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.NonAcademicDetails.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.NonAcademicRegistration.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentDetails.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentRegistration.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.StudentUpdate.resources
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Muhammad Salman\source\repos\SchoolManagementSystem-master\Final\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
